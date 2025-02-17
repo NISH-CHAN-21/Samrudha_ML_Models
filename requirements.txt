@@ -1,0 +1,44 @@
+# FastAPI and Web Server
+fastapi
+uvicorn
+python-multipart
+nest-asyncio
+pydantic
+requests
+
+# Hugging Face & NLP
+transformers
+sentence-transformers
+langchain-community
+faiss-cpu
+huggingface_hub
+langdetect
+gtts
+openai
+googletrans-py
+
+# Machine Learning
+torch
+tensorflow
+joblib
+scikit-learn
+numpy
+pandas
+
+# Image Processing
+opencv-python-headless
+pillow
+pytesseract
+
+# Google Earth Engine & Cloud
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+earthengine-api
+googletrans==4.0.0-rc1
+
+# Environment Management
+python-dotenv
+
+# Weather API
+datetime

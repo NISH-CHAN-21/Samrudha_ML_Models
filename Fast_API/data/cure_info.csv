@@ -1,0 +1,39 @@
+disease,cure
+Apple___Apple_scab,"Remove infected leaves and fruit, prune affected branches, and apply a fungicide effective against apple scab."
+Apple___Black_rot,"Remove and destroy infected parts, apply fungicides, and maintain proper orchard hygiene."
+Apple___Cedar_apple_rust,"Remove nearby juniper trees (alternate host), prune infected areas, and use fungicides."
+Apple___healthy,No treatment needed. Continue with regular maintenance and care.
+Blueberry___healthy,No treatment needed. Maintain proper care and environmental conditions.
+Cherry_(including_sour)___Powdery_mildew,"Remove infected parts, increase air circulation, and apply fungicides effective against powdery mildew."
+Cherry_(including_sour)___healthy,No treatment needed. Maintain proper care.
+Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot,"Remove and destroy infected leaves, rotate crops, and apply fungicides if necessary."
+Corn_(maize)___Common_rust_,Remove infected material and apply rust-specific fungicides.
+Corn_(maize)___Northern_Leaf_Blight,"Remove infected leaves and debris, and use appropriate fungicides."
+Corn_(maize)___healthy,No treatment needed. Practice regular crop management.
+Grape___Black_rot,"Remove and destroy infected clusters and foliage, and apply fungicides to prevent spread."
+Grape___Esca_(Black_Measles),"Prune infected parts, improve air circulation, and apply appropriate fungicides."
+Grape___Leaf_blight_(Isariopsis_Leaf_Spot),"Remove affected leaves and clusters, and treat with fungicides."
+Grape___healthy,No treatment needed. Maintain vineyard hygiene and proper care.
+Orange___Haunglongbing_(Citrus_greening),No effective cure exists. Remove infected trees and control the vector (Asian citrus psyllid).
+Peach___Bacterial_spot,"Remove infected parts, use copper-based bactericides, and maintain good orchard sanitation."
+Peach___healthy,No treatment needed. Continue with regular care and monitoring.
+"Pepper,_bell___Bacterial_spot","Remove infected tissue, use bactericides, and ensure proper spacing for good air circulation."
+"Pepper,_bell___healthy",No treatment needed. Follow standard cultivation practices.
+Potato___Early_blight,"Remove affected leaves, apply fungicides, and practice crop rotation."
+Potato___Late_blight,"Destroy infected plants immediately, apply fungicides, and avoid overhead irrigation."
+Potato___healthy,No treatment needed. Use good cultural practices to maintain plant health.
+Raspberry___healthy,No treatment needed. Maintain proper pruning and sanitation practices.
+Soybean___healthy,No treatment needed. Ensure optimal growing conditions and pest management.
+Squash___Powdery_mildew,"Remove infected leaves, increase spacing for better air flow, and apply fungicides."
+Strawberry___Leaf_scorch,"Remove affected leaves, avoid overhead watering, and apply fungicides if necessary."
+Strawberry___healthy,No treatment needed. Maintain proper cultivation practices.
+Tomato___Bacterial_spot,"Remove infected leaves, use copper-based bactericides, and improve air circulation."
+Tomato___Early_blight,"Remove affected foliage, apply fungicides, and rotate crops."
+Tomato___Late_blight,"Destroy infected plants, apply fungicides promptly, and improve field drainage."
+Tomato___Leaf_Mold,"Remove affected leaves, reduce humidity, and apply fungicides if needed."
+Tomato___Septoria_leaf_spot,Prune infected leaves and apply appropriate fungicides.
+Tomato___Spider_mites Two-spotted_spider_mite,"Increase humidity, use miticides, and wash leaves with water to remove mites."
+Tomato___Target_Spot,Remove affected foliage and apply fungicides specific for target spot.
+Tomato___Tomato_Yellow_Leaf_Curl_Virus,No effective cure exists; remove infected plants and control vector insects.
+Tomato___Tomato_mosaic_virus,Remove infected plants and sanitize tools to prevent virus spread.
+Tomato___healthy,No treatment needed. Maintain good cultivation and care practices.

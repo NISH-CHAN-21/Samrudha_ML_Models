@@ -1,8 +1,3 @@
-# pip install -q fastapi uvicorn pyngrok requests transformers sentencepiece torch langdetect torchvision torchaudio openai-whisper googletrans-py pytesseract opencv-python-headless pillow faiss-cpu gtts langchain-community python-multipart
-
-# from google.colab import drive
-# drive.mount('/content/drive')
-
 import os
 import torch
 import shutil
@@ -23,13 +18,12 @@ from langdetect import detect
 from pyngrok import ngrok
 import nest_asyncio
 import uvicorn
-
-# Commented out IPython magic to ensure Python compatibility.
-# %%writefile main.py
+from dotenv import load_dotenv
+load_dotenv()
 
 nest_asyncio.apply()
 
-os.environ["HF_TOKEN"] = "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"
+
 
 llama_path = "chatbot_files/llama_finetuned"
 faiss_path = "chatbot_files/faiss_index"
